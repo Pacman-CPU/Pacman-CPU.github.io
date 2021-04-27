@@ -19,13 +19,12 @@
     </item>
     
     <item>
-      <title>08.面向对象编程基础</title>
+      <title>08面向对象编程基础</title>
       <link>/posts/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80/</link>
       <pubDate>Tue, 27 Apr 2021 21:05:26 +0800</pubDate>
       
       <guid>/posts/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80/</guid>
-      <description>​	面向对象编程基础
-活在当下的程序员应该都听过&amp;quot;面向对象编程&amp;quot;一词，也经常有人问能不能用一句话解释下什么是&amp;quot;面向对象编程&amp;quot;，我们先来看看比较正式的说法。
+      <description>面向对象编程基础 活在当下的程序员应该都听过&amp;quot;面向对象编程&amp;quot;一词，也经常有人问能不能用一句话解释下什么是&amp;quot;面向对象编程&amp;quot;，我们先来看看比较正式的说法。
 &amp;quot;把一组数据结构和处理它们的方法组成对象（object），把相同行为的对象归纳为类（class），通过类的封装（encapsulation）隐藏内部细节，通过继承（inheritance）实现类的特化（specialization）和泛化（generalization），通过多态（polymorphism）实现基于对象类型的动态分派。&amp;quot;
 这样一说是不是更不明白了。所以我们还是看看更通俗易懂的说法，下面这段内容来自于知乎。
  说明： 以上的内容来自于网络，不代表作者本人的观点和看法，与作者本人立场无关，相关责任不由作者承担。
